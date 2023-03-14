@@ -3,8 +3,8 @@
 }
 
 @font-face {
-font-family: 'TradeGothic Bold';
-src: url('../TradeGothic Bold.ttf') format('truetype');
+font-family: "TradeGothic Bold";
+src: url("TradeGothic Bold.ttf") format("truetype");
 font-weight: normal;
 font-style: normal;
 }
